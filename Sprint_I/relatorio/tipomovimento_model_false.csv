@@ -1,0 +1,15 @@
+,TipoMovimento,Model
+0,Brush_teeth,False
+1,Climb_stairs,False
+2,Comb_hair,False
+3,Descend_stairs,False
+4,Drink_glass,False
+5,Eat_meat,False
+6,Eat_soup,False
+7,Getup_bed,False
+8,Liedown_bed,False
+9,Pour_water,False
+10,Sitdown_chair,False
+11,Standup_chair,False
+12,Use_telephone,False
+13,Walk,False

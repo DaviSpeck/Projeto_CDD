@@ -1,0 +1,8 @@
+,TipoMovimento,Model
+0,Climb_stairs,True
+1,Drink_glass,True
+2,Getup_bed,True
+3,Pour_water,True
+4,Sitdown_chair,True
+5,Standup_chair,True
+6,Walk,True
